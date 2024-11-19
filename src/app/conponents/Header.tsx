@@ -21,7 +21,7 @@ const Header = () => {
     <Navbar className='border-b-2'>
         <Link href={'/'} className='self-center whitespace-nowrap text-sm sm:text-xl font-semibold dark:text-white'>
             <span className='px-2 py-2 bg-gradient-to-r from-indigo-700 via-purple-700 to-pink-700 rounded-lg text-white'>
-                Pius's 
+                Pius 
             </span>
             Blog
         </Link>
